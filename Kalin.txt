@@ -1,6 +1,10 @@
 Hi
+
 My name is Kalin
 
 This is another change made by Kalin Katsarov
 
 This is how we can change things in differend branches
+
+My name is Kalin
+
